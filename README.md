@@ -13,6 +13,6 @@ rm -r example
 
 ## run
 ```bash
-cd example-user
+cd example-user # or example-jsuser
 ./gradlew run
 ```
